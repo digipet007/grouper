@@ -41,7 +41,7 @@ You will also need Node.js installed.  For more information, visit <https://node
 
 ### Installing
 
-To install, access the Github page <https://github.com/sjconst/mvc-group-project>.  You may fork the repository and then clone it to your computer.  
+To install, access the Github page <https://github.com/digipet007/grouper>.  You may fork the repository and then clone it to your computer.  
 
 Next, you will need to download the required NPM packages. Because these packages are listed as dependencies already in the package.json file, you may install these packages by typing `npm install` on the commandline.
 
